@@ -1,7 +1,5 @@
 class Player
   
-  @previousHealth = nil
-  
   def play_turn(warrior)
     
     done = false
