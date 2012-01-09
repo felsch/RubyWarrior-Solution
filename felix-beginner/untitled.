@@ -1,0 +1,15 @@
+rest
+shoot
+attack
+pivot
+rescue
+walk
+
+
+look
+feel
+health
+
+
+archer: range 3
+wizard: range 2
